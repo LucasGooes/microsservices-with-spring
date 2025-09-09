@@ -4,3 +4,6 @@
 [submodule "06-book-service"]
 	path = 06-book-service
 	url = https://github.com/LucasGooes/06-book-service.git
+[submodule "07-naming-server"]
+	path = 07-naming-server
+	url = https://github.com/LucasGooes/07-naming-server.git
