@@ -7,3 +7,6 @@
 [submodule "07-naming-server"]
 	path = 07-naming-server
 	url = https://github.com/LucasGooes/07-naming-server.git
+[submodule "08-api-gateway"]
+	path = 08-api-gateway
+	url = https://github.com/LucasGooes/08-api-gateway.git
